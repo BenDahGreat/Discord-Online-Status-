@@ -5,7 +5,7 @@ app = Flask('')
 
 @app.route('/')
 def main():
-    return "Subscribe NiNj4HAX in next 3 seconds or U get booted offline"
+    return " your mum"
 
 def run():
     app.run(host="0.0.0.0", port=8080)
